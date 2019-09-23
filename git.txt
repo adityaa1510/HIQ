@@ -1,0 +1,35 @@
+Git configuration:
+
+git config --global user.name "Yourname"
+git config --global user.email <email-id>
+git config --global core.editor nano
+
+Git Commands:
+
+Create folder
+git init
+create a file
+git status
+What is staging area?
+git add.
+git status
+git commit/ git commit -m "Your message"
+git status
+git log --oneline = see a brief log of commits
+git checkout <commit> <file>
+git reset HEAD index.html = undo local changes to the state
+git checkout --<file> = revert back to initial state
+
+
+DID YOU GIT IT? XD
+
+https://www.coursera.org/learn/bootstrap-4/supplement/cgWKo/exercise-instructions-basic-git-commands
+
+ONLINE GIT REPO SERVICE PROVIDERS:
+Bitbucket
+Github
+
+git remote add origin <add url> = add the remote online repository
+git push -u origin master = push the local hit repo to the origin to the master branch
+
+git clone <url>
