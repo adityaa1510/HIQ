@@ -1,4 +1,4 @@
-Git configuration:
+Git configuration:-
 
 git config --global user.name "Yourname"
 git config --global user.email <email-id>
